@@ -4,7 +4,7 @@ This repository contains the code used in a video series demonstrating explainab
 ## Table of Contents
 
 1. [Logistic Regression and Decision Tree Interpretability](https://youtu.be/eDvuUXrbwFk)
-2. Permutation Feature Importance
+2. [Permutation Feature Importance](https://youtu.be/DnQsEAMMmyw)
 3. SHAP Values
 4. LIME
 5. Gradient-Based Methods
@@ -16,7 +16,7 @@ The code is organized into separate folders for each topic, with each folder con
 ### [Logistic Regression and Decision Tree Interpretability](https://youtu.be/eDvuUXrbwFk)
 In this section, we explore the interpretability of logistic regression and decision tree models applied to Tennessee Eastman process data. We will discuss various techniques that can help us understand how these models make predictions.
 
-### Permutation Feature Importance
+### [Permutation Feature Importance](https://youtu.be/DnQsEAMMmyw)
 In this section, we will cover permutation feature importance, a method for determining the importance of features in a machine learning model. We will discuss how permutation feature importance works and demonstrate how to implement it on a sample dataset.
 
 ### SHAPLY Values

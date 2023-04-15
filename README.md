@@ -3,7 +3,7 @@ This repository contains the code used in a video series demonstrating explainab
 
 ## Table of Contents
 
-1. Logistic Regression and Decision Tree Interpretability
+1. [Logistic Regression and Decision Tree Interpretability](https://youtu.be/eDvuUXrbwFk)
 2. Permutation Feature Importance
 3. SHAP Values
 4. LIME
@@ -13,7 +13,7 @@ The code is organized into separate folders for each topic, with each folder con
 
 
 
-### Logistic Regression and Decision Tree Interpretability
+### [Logistic Regression and Decision Tree Interpretability](https://youtu.be/eDvuUXrbwFk)
 In this section, we explore the interpretability of logistic regression and decision tree models applied to Tennessee Eastman process data. We will discuss various techniques that can help us understand how these models make predictions.
 
 ### Permutation Feature Importance

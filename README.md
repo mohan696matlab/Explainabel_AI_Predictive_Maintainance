@@ -19,7 +19,7 @@ In this section, we explore the interpretability of logistic regression and deci
 ### [Permutation Feature Importance](https://youtu.be/DnQsEAMMmyw)
 In this section, we will cover permutation feature importance, a method for determining the importance of features in a machine learning model. We will discuss how permutation feature importance works and demonstrate how to implement it on a sample dataset.
 
-### SHAPLY Values
+### [SHAPLY Values](https://youtu.be/llt7NOCcJAg)
 This section will cover SHAPLY values, a method for interpreting machine learning models. We will discuss how SHAPLY values can help us understand the contribution of each feature to a model's output.
 
 ### LIME

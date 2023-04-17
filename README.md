@@ -5,7 +5,7 @@ This repository contains the code used in a video series demonstrating explainab
 
 1. [Logistic Regression and Decision Tree Interpretability](https://youtu.be/eDvuUXrbwFk)
 2. [Permutation Feature Importance](https://youtu.be/DnQsEAMMmyw)
-3. SHAP Values
+3. [SHAPLY Values](https://youtu.be/llt7NOCcJAg)
 4. LIME
 5. Gradient-Based Methods
 

@@ -6,8 +6,8 @@ This repository contains the code used in a video series demonstrating explainab
 1. [Logistic Regression and Decision Tree Interpretability](https://youtu.be/eDvuUXrbwFk)
 2. [Permutation Feature Importance](https://youtu.be/DnQsEAMMmyw)
 3. [SHAPLY Values](https://youtu.be/llt7NOCcJAg)
-4. LIME
-5. Gradient-Based Methods
+4. [LIME](https://youtu.be/Kr3Bs0Ft6wc)
+5. [Gradient-Based Methods](https://youtu.be/ZIGff_iGlVY)
 
 The code is organized into separate folders for each topic, with each folder containing a Jupyter Notebook demonstrating the XAI method on a particular dataset. Additionally, each notebook contains detailed explanations and comments to help understand the code and the underlying concepts.
 
@@ -22,10 +22,10 @@ In this section, we will cover permutation feature importance, a method for dete
 ### [SHAPLY Values](https://youtu.be/llt7NOCcJAg)
 This section will cover SHAPLY values, a method for interpreting machine learning models. We will discuss how SHAPLY values can help us understand the contribution of each feature to a model's output.
 
-### LIME
+### [LIME](https://youtu.be/Kr3Bs0Ft6wc)
 This section will explore LIME, a method for interpreting machine learning models. We will discuss how LIME works and demonstrate how to use it to interpret a sample model.
 
-### Gradient-Based Methods
+### [Gradient-Based Methods](https://youtu.be/ZIGff_iGlVY)
 In this section, we will cover gradient-based methods, a set of techniques that use the gradients of a model's output to interpret its predictions. We will discuss different types of gradient-based methods and provide examples of how they can be applied to different types of models.
 
 ## Requirements
